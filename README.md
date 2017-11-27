@@ -1,5 +1,5 @@
 ## DATA DASHBOARD LABORATORIA  
-En el siguiente trabajo se realiza un sketcher de el dashboard laboratoria.
+En el siguiente trabajo se realiza un sketcher del dashboard laboratoria.
 
 #### DETALLES.  
 Ingreso a los datos en tres pasos :  
